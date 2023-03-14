@@ -1,0 +1,27 @@
+.main-nav {
+  height: 70px;
+  padding-left: 40px;
+}
+
+.nav-logo-text {
+  font-size: 24px;
+  font-weight: 700;
+  margin-right: 500px;
+  margin-left: 10;
+}
+
+.main-menu {
+  display: flex;
+  font-size: 18px;
+  width: 250px;
+  justify-content: space-between;
+  margin-right: 20px;
+}
+
+.main-menu a{
+    font-size: 18px;
+}
+
+.main-menu a:hover{
+    font-weight: 700;
+}
