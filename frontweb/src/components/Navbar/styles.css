@@ -1,13 +1,15 @@
 .main-nav {
-  height: 70px;
+  min-height: 70px;
   padding-left: 40px;
 }
 
 .nav-logo-text {
   font-size: 24px;
-  font-weight: 700;
-  margin-right: 500px;
-  margin-left: 10;
+}
+
+.nav-logo-text,
+.nav-logo-text:hover {
+  color: #00285f;
 }
 
 .main-menu {
@@ -15,13 +17,12 @@
   font-size: 18px;
   width: 250px;
   justify-content: space-between;
-  margin-right: 20px;
 }
 
-.main-menu a{
-    font-size: 18px;
+.main-menu a {
+  color: #00285f;
 }
 
-.main-menu a:hover{
-    font-weight: 700;
+.main-menu a:hover {
+  font-weight: 700;
 }
