@@ -1,5 +1,6 @@
 import { ReactComponent as MaingImage } from '../../assets/images/main-image.svg';
 import Navbar from 'components/Navbar';
+import './styles.css';
 
 const Home = () => {
   return (
