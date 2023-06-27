@@ -1,11 +1,11 @@
-.btn-catalog {
+.btn-home {
   height: 45px;
   margin: 28px 60px 9px;
   background-color: #00285f;
   border-radius: 5px;
 }
 
-.btn-catalog span {
+.btn-home span {
   color: #fff;
   font-size: 14px;
   padding: 12px 38px 12px 45px;

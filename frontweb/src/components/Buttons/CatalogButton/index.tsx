@@ -2,8 +2,8 @@ import './styles.css';
 
 const CatalogButton = () => {
   return (
-    <div className="btn-catalog-container ">
-      <button className="btn btn-catalog">
+    <div className="btn-home-container ">
+      <button className="btn btn-home">
         <span>VER CATÁLOGO</span>
       </button>
     </div>
